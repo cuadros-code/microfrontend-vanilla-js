@@ -10,6 +10,6 @@
 <br>
 <img src="./assets/buildTime.png" width='600px'>
 
-> Build Time Integration
+> Run Time Integration
 <br>
 <img src="./assets/runTime.png" width='600px'>
