@@ -8,8 +8,8 @@
 
 > Build Time Integration
 <br>
-<img src="./assets/buildTime.png" width='300px'>
+<img src="./assets/buildTime.png" width='600px'>
 
 > Build Time Integration
 <br>
-<img src="./assets/runTime.png" width='300px'>
+<img src="./assets/runTime.png" width='600px'>
